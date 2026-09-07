@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
 
-Solved on: 2026-09-07T09:51:16.000Z
+Solved on: 2026-09-07T09:52:09.000Z
 Language: cpp
 Difficulty: Medium
 Tags: String, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask
