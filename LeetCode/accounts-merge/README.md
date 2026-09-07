@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/accounts-merge/
 
-Solved on: 2025-06-06T08:07:22.000Z
+Solved on: 2026-09-07T09:43:14.000Z
 Language: cpp
 Difficulty: Medium
 Tags: Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting
