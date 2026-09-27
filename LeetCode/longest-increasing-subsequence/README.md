@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/longest-increasing-subsequence/
 
-Solved on: 2026-07-05T06:00:06.000Z
+Solved on: 2026-09-27T06:09:20.000Z
 Language: cpp
 Difficulty: Medium
 Tags: Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence
